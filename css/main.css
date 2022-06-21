@@ -1,0 +1,15 @@
+body {
+  background-color: lightcoral;
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+button {
+  background-color: rgb(211, 79, 79);
+  margin-right: 10px;
+}
